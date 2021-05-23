@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hh-school-react-2021/static/css/main.b4f24279.chunk.css",
-    "main.js": "/hh-school-react-2021/static/js/main.07cf657f.chunk.js",
-    "main.js.map": "/hh-school-react-2021/static/js/main.07cf657f.chunk.js.map",
+    "main.css": "/hh-school-react-2021/static/css/main.343a9c1e.chunk.css",
+    "main.js": "/hh-school-react-2021/static/js/main.45883ca0.chunk.js",
+    "main.js.map": "/hh-school-react-2021/static/js/main.45883ca0.chunk.js.map",
     "runtime-main.js": "/hh-school-react-2021/static/js/runtime-main.668beb03.js",
     "runtime-main.js.map": "/hh-school-react-2021/static/js/runtime-main.668beb03.js.map",
     "static/js/2.22b0728c.chunk.js": "/hh-school-react-2021/static/js/2.22b0728c.chunk.js",
     "static/js/2.22b0728c.chunk.js.map": "/hh-school-react-2021/static/js/2.22b0728c.chunk.js.map",
     "index.html": "/hh-school-react-2021/index.html",
-    "static/css/main.b4f24279.chunk.css.map": "/hh-school-react-2021/static/css/main.b4f24279.chunk.css.map",
+    "static/css/main.343a9c1e.chunk.css.map": "/hh-school-react-2021/static/css/main.343a9c1e.chunk.css.map",
     "static/js/2.22b0728c.chunk.js.LICENSE.txt": "/hh-school-react-2021/static/js/2.22b0728c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.668beb03.js",
     "static/js/2.22b0728c.chunk.js",
-    "static/css/main.b4f24279.chunk.css",
-    "static/js/main.07cf657f.chunk.js"
+    "static/css/main.343a9c1e.chunk.css",
+    "static/js/main.45883ca0.chunk.js"
   ]
 }
